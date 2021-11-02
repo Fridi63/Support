@@ -1,0 +1,9 @@
+Lib
+venv
+.idea
+Scripts
+templates
+static
+pyvenv.cfg
+.env
+automium_web.wsgi
